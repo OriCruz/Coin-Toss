@@ -1,0 +1,12 @@
+D:\Visual Studio\Coin Toss\bin\Debug\Coin Toss.exe.config
+D:\Visual Studio\Coin Toss\bin\Debug\Coin Toss.exe
+D:\Visual Studio\Coin Toss\bin\Debug\Coin Toss.pdb
+D:\Visual Studio\Coin Toss\bin\Debug\Coin Toss.xml
+D:\Visual Studio\Coin Toss\obj\Debug\Coin Toss.vbproj.AssemblyReference.cache
+D:\Visual Studio\Coin Toss\obj\Debug\Coin_Toss.Form1.resources
+D:\Visual Studio\Coin Toss\obj\Debug\Coin_Toss.Resources.resources
+D:\Visual Studio\Coin Toss\obj\Debug\Coin Toss.vbproj.GenerateResource.cache
+D:\Visual Studio\Coin Toss\obj\Debug\Coin Toss.vbproj.CoreCompileInputs.cache
+D:\Visual Studio\Coin Toss\obj\Debug\Coin Toss.exe
+D:\Visual Studio\Coin Toss\obj\Debug\Coin Toss.xml
+D:\Visual Studio\Coin Toss\obj\Debug\Coin Toss.pdb
